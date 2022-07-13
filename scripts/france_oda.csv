@@ -1,0 +1,11 @@
+#NAME?,"Sorry, the query is too large to fit into the Excel cell. You will not be able to update your table with the .Stat Populator.",,,,,,,,,,,,,,,,,,,,,,
+Dataset: Aid (ODA) disbursements to countries and regions [DAC2a],,,,,,,,,,,,,,,,,,,,,,,
+Donor,,,France,,,,,,,,,,,,,,,,,,,,
+Part,,,1 : Part I - Developing Countries,,,,,,,,,,,,,,,,,,,,
+Amount type,,,Current Prices,,,,,,,,,,,,,,,,,,,,
+Recipient,,,"Developing Countries, Total",,,,,,,,,,,,,,,,,,,,
+Year,,,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+Aid type,Unit,,,,,,,,,,,,,,,,,,,,,,
+ODA: Total Net,"US Dollar, Millions",i,2828.8,2595.79,3615,5213.39,5566.8,7239.19,7919.4,6258.44,6668.97,7186.79,8055.56,8494.69,7929.17,6800.51,6513.7,5155.27,5641.5,6649.07,7372.2,7443.95,10671.47
+Imputed Multilateral ODA,"US Dollar, Millions",,1337.99,1725.49,2007.43,2128.49,3088.97,3002.94,3317.39,3749.91,4345.66,5443.14,4937.3,4514.08,3895.47,4274.71,3968.99,3796.45,3881.76,4617.2,5479.73,4384.39,4978.62
+Data extracted on 13 Jul 2022 13:11 UTC (GMT) from OECD.Stat,,,,,,,,,,,,,,,,,,,,,,,
