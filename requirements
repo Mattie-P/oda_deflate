@@ -1,0 +1,10 @@
+pandas
+bblocks==0.1.2
+requests
+country_converter
+pydeflate
+oauth2client
+gspread
+selenium
+webdriver_manager
+numpy
